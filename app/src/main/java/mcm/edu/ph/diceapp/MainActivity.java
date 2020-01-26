@@ -201,7 +201,7 @@ public class MainActivity extends AppCompatActivity {
                     }
                 }, 2000);
                 Toast.makeText(MainActivity.this,
-                        "DEVINE",
+                        "B",
                         Toast.LENGTH_LONG).show();
                 break;
         }
